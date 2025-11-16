@@ -26,20 +26,20 @@
 					<AmmoMax50MP value="25" />
 					<AmmoMax100MP value="25" />
 					<AmmoFlags>AddSmokeOnExplosion Fuse</AmmoFlags>
-					<Damage value="200.000000"/>
-					<LifeTime value="10.000000"/>
-					<FromVehicleLifeTime value="10.000000"/>
-					<LifeTimeAfterImpact value="10.000000"/>
-					<LifeTimeAfterExplosion value="10.000000"/>
-					<ExplosionTime value="0.0000000"/>
-					<LaunchSpeed value="300.000000"/>
+					<Damage value="0.000000"/>
+					<LifeTime value="4.000000"/>
+					<FromVehicleLifeTime value="5.000000"/>
+					<LifeTimeAfterImpact value="0.000000"/>
+					<LifeTimeAfterExplosion value="0.000000"/>
+					<ExplosionTime value="0.000000"/>
+					<LaunchSpeed value="25.000000"/>
 					<SeparationTime value="0.000000"/>
-					<TimeToReachTarget value="1.000000"/>
-					<Damping value="0.000000"/>
+					<TimeToReachTarget value="5.000000"/>
+					<Damping value="0.050000"/>
 					<GravityFactor value="1.000000"/>
 					<RicochetTolerance value="1.000000"/>
 					<PedRicochetTolerance value="0.000000"/>
-					<VehicleRicochetTolerance value="0.000000"/>
+					<VehicleRicochetTolerance value="1.000000"/>
 					<FrictionMultiplier value="1.000000"/>
 					<Explosion>
 						<Default>GRENADE</Default>
@@ -55,8 +55,8 @@
 					<TrailFxUnderWater/>
 					<FuseFxFP/>
 					<PrimedFxFP/>
-					<TrailFxFadeInTime value="1.000000"/>
-					<TrailFxFadeOutTime value="1.000000"/>
+					<TrailFxFadeInTime value="0.000000"/>
+					<TrailFxFadeOutTime value="0.000000"/>
 					<PrimedFx/>
 					<DisturbFxDefault>proj_disturb_dust</DisturbFxDefault>
 					<DisturbFxSand>proj_disturb_dust</DisturbFxSand>
