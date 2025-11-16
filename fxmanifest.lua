@@ -1,5 +1,6 @@
 fx_version 'cerulean'
 games {'gta5'}
+creator 'Nukepug Designs'
 description 'Add-on weapon generated using FiveM Addon Weapon Tool Kit'
 
 files{
@@ -17,3 +18,4 @@ data_file 'PED_PERSONALITY_FILE' '**/pedpersonality.meta'
 data_file 'WEAPONINFO_FILE' '**/weapons.meta'
 
 client_script 'cl_weaponNames.lua'
+
